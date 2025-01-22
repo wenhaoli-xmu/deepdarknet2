@@ -1,0 +1,9 @@
+.vs
+.vscode
+__pycache__
+.ipynb_checkpoints
+deepdarknet
+
+*.mat
+deepdarknet2/example
+examples
